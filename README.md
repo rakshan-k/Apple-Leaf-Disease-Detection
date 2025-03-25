@@ -62,18 +62,18 @@ Extracts frequency content from images to enhance disease differentiation.
 
 Repository Structure
 
-|-- dataset/             # Image dataset for training and validation
-|-- segmentation/        # Code for diseased region segmentation
-|-- feature_extraction/  # Feature extraction techniques applied
-|-- classification/      # Classification models and training scripts
-|-- results/             # Output images and performance evaluation
-|-- README.md            # Project documentation
+|-- dataset/             # Image dataset for training and validation  
+|-- segmentation/        # Code for diseased region segmentation  
+|-- feature_extraction/  # Feature extraction techniques applied  
+|-- classification/      # Classification models and training scripts  
+|-- results/             # Output images and performance evaluation  
+|-- README.md            # Project documentation  
 
 Requirements
 
 Ensure the following dependencies are installed:
 
-pip install numpy opencv-python matplotlib scikit-learn tensorflow
+'''pip install numpy opencv-python matplotlib scikit-learn tensorflow'''
 
 Usage
 
